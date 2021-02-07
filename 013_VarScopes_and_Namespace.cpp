@@ -1,3 +1,6 @@
+///  Description: namesapce, using, stackoverflow, variable storage in memory
+///  Author:  Pritesh Gohil - priteshbgohil [at] gmail [dot] com
+
 #include<iostream>
 using namespace std;
 
